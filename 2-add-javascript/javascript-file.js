@@ -1,0 +1,1 @@
+document.getElementById("body").innerHTML = "Привіт з файлу JavaScript!";
